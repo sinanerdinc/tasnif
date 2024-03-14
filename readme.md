@@ -65,3 +65,9 @@ Contributions to `Tasnif` are welcome! Please fork the repository and submit a p
 ## License
 
 Tasnif is released under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contributors
+
+<a href="https://github.com/cobanov/tasnif/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=cobanov/tasnif" />
+</a>
